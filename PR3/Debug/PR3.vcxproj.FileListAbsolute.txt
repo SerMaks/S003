@@ -1,0 +1,4 @@
+C:\Users\Artyom\Desktop\ppppp\PR3\Debug\PR3.exe
+C:\Users\Artyom\Desktop\ppppp\PR3\Debug\PR3.pdb
+C:\Users\ilyau\Desktop\PR3\Debug\PR3.exe
+C:\Users\ilyau\Desktop\PR3\Debug\PR3.pdb
